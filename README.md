@@ -35,4 +35,4 @@ pyinstaller --onefile --noconsole GPT3.5.py
 
 演示效果：
 
-![演示](./image.jpg)
+![演示](./v1.jpg)
